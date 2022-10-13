@@ -8,7 +8,7 @@ Tampilan awal </br>
 Membuat Form Data Baru </br>
 ![Screenshot](images/baru.jpeg) </br>
 Hasilnya 
-![Screenshot](images/done.jpeg) </br>
+![Screenshot](images/done1.jpeg) </br>
 Lihat biodata </br>
 ![Screenshot](images/lihat.jpeg) </br>
 Update Data </br>
