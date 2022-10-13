@@ -1,6 +1,6 @@
 # sqlite-android-java
 Nama  : Diajeng Nidzom Yoesharnilillah</br>
-Absen : 12</br>
+Absen : 11</br>
 
 Hasil Screenshot </br>
 Tampilan awal </br>
